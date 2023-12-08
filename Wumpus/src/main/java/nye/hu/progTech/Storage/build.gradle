@@ -1,0 +1,10 @@
+package nye.hu.progTech.Storage
+
+plugins {
+    id 'java'
+    id 'jacoco'
+}
+
+jacoco {
+    // Jacoco configuration
+}
